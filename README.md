@@ -6,7 +6,7 @@
 """
 tictactoe.py
 An interactive game in Python
-Created by Philo van Kemenade
+Created by Mohamed Ali 17
 """
 
 
